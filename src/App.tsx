@@ -1,5 +1,4 @@
-import GeminiService from "../services/geminiService";
-
+import GeminiService from '../services/geminiService.ts';
 function App() {
   return (
     <div>
