@@ -1,0 +1,43 @@
+
+{
+  "name": "CondoLink Portaria Inteligente",
+  "short_name": "CondoLink",
+  "description": "Sistema de gestão de encomendas e comunicados para condomínios.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "categories": ["business", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1157/1157000.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1157/1157000.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000&auto=format&fit=crop",
+      "sizes": "1000x1000",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Painel Principal CondoLink"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?q=80&w=1000&auto=format&fit=crop",
+      "sizes": "1000x1000",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Vista Mobile do App"
+    }
+  ]
+}

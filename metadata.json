@@ -1,0 +1,8 @@
+{
+  "name": "CondoLink",
+  "short_name": "CondoLink",
+  "description": "Gestão inteligente de condomínios",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
