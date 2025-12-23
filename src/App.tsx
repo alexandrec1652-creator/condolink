@@ -1,4 +1,4 @@
-import GeminiService from "../services/geminiService";
+import geminiService from "../services/geminiService";
 
 function App() {
   return (
